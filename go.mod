@@ -8,7 +8,7 @@ replace (
 	github.com/distribution/reference => github.com/distribution/reference v0.5.0
 	github.com/rancher/lasso => github.com/iYashMaurya/lasso v0.0.0-20251229045230-e8b5b0ffb53d
 	github.com/rancher/system-upgrade-controller/pkg/apis => ./pkg/apis
-	github.com/rancher/wrangler/v3 => github.com/iYashMaurya/wrangler/v3 v3.0.0-20251229090358-2a0ac2717b07
+	github.com/rancher/wrangler/v3 => github.com/iYashMaurya/wrangler/v3 v3.0.0-20260111155633-72014ddd7f4b
 	k8s.io/api => k8s.io/api v0.35.0
 	k8s.io/apiextensions-apiserver => k8s.io/apiextensions-apiserver v0.35.0
 	k8s.io/apimachinery => k8s.io/apimachinery v0.35.0

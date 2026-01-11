@@ -81,8 +81,8 @@ github.com/grpc-ecosystem/grpc-gateway/v2 v2.26.3 h1:5ZPtiqj0JL5oKWmcsq4VMaAW5uk
 github.com/grpc-ecosystem/grpc-gateway/v2 v2.26.3/go.mod h1:ndYquD05frm2vACXE1nsccT4oJzjhw2arTS2cpUD1PI=
 github.com/iYashMaurya/lasso v0.0.0-20251229045230-e8b5b0ffb53d h1:vOkLvrZ2AnOeUHW0/KPczfyhcHxiRpvjOrp6llbx2V4=
 github.com/iYashMaurya/lasso v0.0.0-20251229045230-e8b5b0ffb53d/go.mod h1:svOYqeyBo4gQmXbwtPkJHvLpTx5auSa+wVmzoXT9f2k=
-github.com/iYashMaurya/wrangler/v3 v3.0.0-20251229090358-2a0ac2717b07 h1:p5G3hn9Of3XX6uTT8eCKyuCd2QG9Z+3ALbZ7ivH8TLM=
-github.com/iYashMaurya/wrangler/v3 v3.0.0-20251229090358-2a0ac2717b07/go.mod h1:2Vdo0eiot8ZAiwx83riIXO0NmslCwFCiMHxpKcyiM34=
+github.com/iYashMaurya/wrangler/v3 v3.0.0-20260111155633-72014ddd7f4b h1:orcAz3c0DGIMyH6Jy3FurLpdMGK7ADJaJanb3n4ggJo=
+github.com/iYashMaurya/wrangler/v3 v3.0.0-20260111155633-72014ddd7f4b/go.mod h1:e5BY+A3gvuWpyKpg87BKmG6eemUoP/CH8x6TD09OjLg=
 github.com/inconshreveable/mousetrap v1.1.0 h1:wN+x4NVGpMsO7ErUn/mUI3vEoE6Jt13X2s0bqwp9tc8=
 github.com/inconshreveable/mousetrap v1.1.0/go.mod h1:vpF70FUmC8bwa3OWnCshd2FqLfsEA9PFc4w1p2J65bw=
 github.com/josharian/intern v1.0.0 h1:vlS4z54oSdjm0bgjRigI+G1HpF+tI+9rE5LLzOg8HmY=

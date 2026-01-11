@@ -2,7 +2,9 @@ module github.com/rancher/system-upgrade-controller/pkg/apis
 
 go 1.25.0
 
-toolchain go1.25.1
+toolchain go1.25.4
+
+replace github.com/rancher/wrangler/v3 => github.com/iYashMaurya/wrangler/v3 v3.0.0-20260111155633-72014ddd7f4b
 
 require (
 	github.com/kubereboot/kured v1.13.1
